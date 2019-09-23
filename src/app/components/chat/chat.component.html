@@ -1,0 +1,14 @@
+<div class="chat">
+  <!-- Header -->
+  <div class="chat__header">
+    <app-contact-profile></app-contact-profile>
+  </div>
+  <!-- messages -->
+  <div class="chat__content">
+    <app-messages [messages]='messages'></app-messages>
+  </div>
+  <!-- text input -->
+  <div class="chat__footer">
+    <app-message-input (valueChange)="sendMessage($event)"></app-message-input>
+  </div>
+</div>

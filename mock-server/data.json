@@ -1,0 +1,166 @@
+{
+  "messages": [
+    {
+      "id": 1,
+      "messageText": "hi",
+      "createdDate": "Mon Feb 28 2017 04:26:02 GMT+0200 (Eastern European Standard Time)",
+      "modifiedDate": "Mon Feb 28 2017 04:26:02 GMT+0200 (Eastern European Standard Time)",
+      "createdByUserId": 1,
+      "createdByUserName": "Zachary Quinto",
+      "type": "sent",
+      "img": "assets/images/4.jpg"
+    },
+    {
+      "id": 2,
+      "messageText": "hello",
+      "createdDate": "Mon Dec 10 2018 04:26:02 GMT+0200 (Eastern European Standard Time)",
+      "modifiedDate": "Mon Dec 10 2018 04:26:02 GMT+0200 (Eastern European Standard Time)",
+      "createdByUserId": 2,
+      "createdByUserName": "Matt Damon",
+      "type": "replies",
+      "img": "assets/images/mat.jpg"
+    },
+    {
+      "id": 3,
+      "messageText": "who are you",
+      "createdDate": "Mon Dec 10 2018 06:26:02 GMT+0200 (Eastern European Standard Time)",
+      "modifiedDate": "Mon Dec 10 2018 06:26:02 GMT+0200 (Eastern European Standard Time)",
+      "createdByUserId": 2,
+      "createdByUserName": "Matt Damon",
+      "type": "replies",
+      "img": "assets/images/mat.jpg"
+    },
+    {
+      "id": 4,
+      "messageText": "I am the super hero",
+      "createdDate": "Mon Dec 10 2018 08:14:02 GMT+0200 (Eastern European Standard Time)",
+      "modifiedDate": "Mon Dec 10 2018 08:14:02 GMT+0200 (Eastern European Standard Time)",
+      "createdByUserId": 1,
+      "createdByUserName": "Zachary Quinto",
+      "type": "sent",
+      "img": "assets/images/4.jpg"
+    },
+    {
+      "id": 5,
+      "messageText": "no you are the boogey man",
+      "createdDate": "Mon Dec 10 2018 09:12:02 GMT+0200 (Eastern European Standard Time)",
+      "modifiedDate": "Mon Dec 10 2018 09:12:02 GMT+0200 (Eastern European Standard Time)",
+      "createdByUserId": 2,
+      "createdByUserName": "Matt Damon",
+      "type": "replies",
+      "img": "assets/images/mat.jpg"
+    },
+    {
+      "id": 6,
+      "messageText": "I am the time master who travels between time",
+      "createdDate": "Mon Dec 10 2018 10:59:02 GMT+0200 (Eastern European Standard Time)",
+      "modifiedDate": "Mon Dec 10 2018 10:59:02 GMT+0200 (Eastern European Standard Time)",
+      "createdByUserId": 2,
+      "createdByUserName": "Matt Damon",
+      "type": "replies",
+      "img": "assets/images/mat.jpg"
+    },
+    {
+      "id": 7,
+      "messageText": "no your liar",
+      "createdDate": "Mon Dec 10 2018 11:42:02 GMT+0200 (Eastern European Standard Time)",
+      "modifiedDate": "Mon Dec 10 2018 11:42:02 GMT+0200 (Eastern European Standard Time)",
+      "createdByUserId": 1,
+      "createdByUserName": "Zachary Quinto",
+      "type": "sent",
+      "img": "assets/images/4.jpg"
+    },
+    {
+      "id": 8,
+      "messageText": "i will eat your brain",
+      "createdDate": "Mon Dec 10 2018 08:12:02 GMT+0200 (Eastern European Standard Time)",
+      "modifiedDate": "Mon Dec 10 2018 08:12:02 GMT+0200 (Eastern European Standard Time)",
+      "createdByUserId": 2,
+      "createdByUserName": "Matt Damon",
+      "type": "replies",
+      "img": "assets/images/mat.jpg"
+    },
+    {
+      "messageText": "so tell the lizard i a life",
+      "createdDate": "Mon Dec 10 2018 01:13:59 GMT+0200 (Eastern European Standard Time)",
+      "modifiedDate": "Mon Dec 10 2018 01:13:59 GMT+0200 (Eastern European Standard Time)",
+      "createdByUserId": 2,
+      "createdByUserName": "Matt Damon",
+      "type": "replies",
+      "img": "assets/images/mat.jpg",
+      "id": 9
+    },
+    {
+      "messageText": "i will kill anybody with abilities",
+      "createdDate": "Mon Dec 10 2018 21:23:51 GMT+0200 (Eastern European Standard Time)",
+      "modifiedDate": "Mon Dec 10 2018 21:23:51 GMT+0200 (Eastern European Standard Time)",
+      "createdByUserId": 2,
+      "createdByUserName": "Matt Damon",
+      "type": "replies",
+      "img": "assets/images/mat.jpg",
+      "id": 10
+    },
+    {
+      "messageText": "i will eat you arm then your eyes",
+      "createdDate": "Mon Dec 10 2018 01:50:52 GMT+0200 (Eastern European Standard Time)",
+      "modifiedDate": "Mon Dec 10 2018 01:50:52 GMT+0200 (Eastern European Standard Time)",
+      "createdByUserId": 2,
+      "createdByUserName": "Matt Damon",
+      "type": "replies",
+      "img": "assets/images/mat.jpg",
+      "id": 11
+    },
+    {
+      "messageText": "i will fly like a plane",
+      "createdDate": "Mon Dec 10 2018 02:54:32 GMT+0200 (Eastern European Standard Time)",
+      "modifiedDate": "Mon Dec 10 2018 02:54:32 GMT+0200 (Eastern European Standard Time)",
+      "createdByUserId": 2,
+      "createdByUserName": "Matt Damon",
+      "type": "replies",
+      "img": "assets/images/mat.jpg",
+      "id": 12
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "status": "online",
+      "avatar": "assets/images/mark.jpeg",
+      "name": "Mark Wahlberg",
+      "preview": "Hello There"
+    },
+    {
+      "id": 2,
+      "status": "busy",
+      "avatar": "assets/images/mark.jpeg",
+      "name": "Mark Wahlberg",
+      "preview": "Hi"
+    },
+    {
+      "id": 3,
+      "status": "away",
+      "avatar": "assets/images/1.png",
+      "name": "Lorem ipsum",
+      "preview": "hi mate"
+    },
+    {
+      "id": 4,
+      "status": "away",
+      "avatar": "assets/images/2.png",
+      "name": "Mark Wahlberg",
+      "preview": "did you your inbox"
+    },
+    {
+      "id": 6,
+      "status": "online",
+      "avatar": "assets/images/4.jpg",
+      "name": "Michael Jackson",
+      "preview": "Hi mikey!"
+    }
+  ],
+  "currentUser": {
+    "id": 1,
+    "name": "Matt Damon",
+    "avatar": "assets/images/mat.jpg"
+  }
+}

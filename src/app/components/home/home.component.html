@@ -1,0 +1,19 @@
+<ng-template #welcome>
+  <div class="weclome-message">
+    <h1>Welcome ....</h1>
+  </div>
+</ng-template>
+<div class="contacts" *ngIf="users; else welcome ">
+  <ul>
+    <li class="contact" *ngFor="let user of users; let isFirst = first" [class.active]="isFirst">
+      <div class="wrap">
+        <span class="contact__status {{user.status}}"></span>
+        <img class="contact__img" [src]="user.avatar" [alt]="user.name" />
+        <div class="contact__meta">
+          <p class="contact__name">{{user.name}}</p>
+          <p class="contact__preview">{{user.preview}}</p>
+        </div>
+      </div>
+    </li>
+  </ul>
+</div>
